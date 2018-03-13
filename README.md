@@ -10,9 +10,9 @@ Cara Install Bot Token Di Termux :
 ------
 - `pkg install nodejs -y`
 - `pkg install git -y`
-- `git clone https://github.com/Gendjex/Token1`
+- `git clone https://github.com/Penyihirs/Tokene`
 - `pkg install nano`
-- `cd Token1`
+- `cd Tokene`
 - `npm install`
 - `npm i`
 - `npm i -g npm (Jika Update)`
@@ -33,16 +33,16 @@ Cara Install Bot Token Di C9/Server:
 - =================  [PROSES INSTALL]  =================
 - ==============================================
 - `sudo apt-get install nodejs`
-- `git clone https://github.com/Gendjex/Token1`
+- `git clone https://github.com/Penyihirs/Tokene`
 - `ls`
-- `cd Token1`
+- `cd Tokene`
 - `npm i`
 - `npm i -g npm [apabila ada update]`
 - `npm start`
 
 Cara Menjalankan Bot Kembali :
 ------
-- `cd Token1`
+- `cd Tokene`
 - `npm start`
 
 Tutorial Video :
@@ -53,6 +53,7 @@ Thx To :
 ------
 - `Alfatdirk`
 - `Nadyatjia`
+- `Vipro`
 
 
 
